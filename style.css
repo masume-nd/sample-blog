@@ -1,0 +1,9 @@
+.line{
+    width: 90%;
+    height: 1px;
+    background-color: gainsboro;
+    margin-left: 60px;
+}
+.text-size{
+    font-size: larger;
+}
